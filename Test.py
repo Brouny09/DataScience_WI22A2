@@ -33,5 +33,4 @@ ax.set_ylabel("Y-Achse")
 
 # Anzeige des Diagramms
 plt.show()
-#Hallo
-#Hallo2
+
